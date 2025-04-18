@@ -19,7 +19,8 @@ const emailSender = async (
     });
 
     const info = await transporter.sendMail({
-        from: '"PH Health Care" <fahimfiroz.ph@gmail.com>', // sender address
+        // from: '"PH Health Care" <fahimfiroz.ph@gmail.com>', // sender address
+        from: '"PH Health Care" <rbiswas01999@gmail.com>', // sender address
         to: email, // list of receivers
         subject: "Reset Password Link", // Subject line
         //text: "Hello world?", // plain text body
