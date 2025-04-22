@@ -1,5 +1,4 @@
 # PH HealthCare Server
-
 Welcome to the backend repository for PH HealthCare, a tutorial project developed as part of the "Level 2 Web Development Course" offered by Programming Hero.
 
 This repository contains the backend codebase responsible for handling server-side logic, database management, and communication between different system components.

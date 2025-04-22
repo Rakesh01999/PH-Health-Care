@@ -9,7 +9,6 @@ const generateToken = (payload: any, secret: Secret, expiresIn: string) => {
             expiresIn
         }
     );
-
     return token;
 };
 
